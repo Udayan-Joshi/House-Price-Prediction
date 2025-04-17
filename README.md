@@ -5,7 +5,7 @@ Predicting housing prices in California using powerful regression techniques and
 
 ---
 
-Try the live application yourself : https://house-price-prediction-0205.streamlit.app/
+Try the live application : https://house-price-prediction-0205.streamlit.app/
 
 ---
 
