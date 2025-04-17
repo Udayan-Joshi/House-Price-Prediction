@@ -5,6 +5,10 @@ Predicting housing prices in California using powerful regression techniques and
 
 ---
 
+Try the live application yourself : https://house-price-prediction-0205.streamlit.app/
+
+---
+
 ## 📌 Project Description
 
 This project builds a regression model using the **XGBoost Regressor** to predict **house prices** in California. The model is trained on the [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset), with steps including data analysis, visualization, training, and evaluation.
